@@ -1,5 +1,5 @@
 .smallimg {
-    background-image: url('/home/gitika/Neelaksh/frontend/small.png') center fixed;
+    background: url('/home/gitika/Neelaksh/frontend/small.png') center ;
     background-repeat: no-repeat;
     background-size:cover;
 
